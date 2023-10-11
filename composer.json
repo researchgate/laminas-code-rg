@@ -25,7 +25,7 @@
         "laminas/laminas-stdlib": "Laminas\\Stdlib component"
     },
     "replace": {
-        "laminas/laminas-code": "4.7.*",
+        "laminas/laminas-code": "4.7.*"
     },
     "config": {
         "allow-plugins": {
