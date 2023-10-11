@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-code",
+    "name": "rg/laminas-code",
     "description": "Extensions to the PHP Reflection API, static code scanning, and code generation",
     "keywords": [
         "laminas",
@@ -23,6 +23,9 @@
     "suggest": {
         "doctrine/annotations": "Doctrine\\Common\\Annotations >=1.0 for annotation features",
         "laminas/laminas-stdlib": "Laminas\\Stdlib component"
+    },
+    "replace": {
+        "laminas/laminas-code": "4.7.*"
     },
     "config": {
         "allow-plugins": {
