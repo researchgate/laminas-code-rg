@@ -1,5 +1,5 @@
 {
-    "name": "rg/laminas-code",
+    "name": "researchgate/laminas-code",
     "description": "Extensions to the PHP Reflection API, static code scanning, and code generation",
     "keywords": [
         "laminas",
